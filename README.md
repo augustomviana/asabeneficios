@@ -1,7 +1,7 @@
 # Asa Benefícios
 
-Asa Benefícios é uma consultoria especializada em benefícios corporativos. Oferecendo uma variedade de serviços, incluindo planos de saúde, planos odontológicos, seguro de vida, seguro saúde e cartão benefícios. 
+Asa Benefícios  is a benefits consulting firm specializing in employee benefits. They offer a variety of services including health plans, dental plans, life insurance, medical insurance and benefit cards.
 
-O site foi desenvolvido em Wordpress, utilizando Elementor Pro como construtor.
+The site was developed in Wordpress using Elementor Pro as the builder.
 
-Confira meu site em <a href="https://asabeneficios.com.br" target="_blank">https://asabeneficios.com.br/</a>
+Check out my website at <a href="https://asabeneficios.com.br" target="_blank">https://asabeneficios.com.br/</a>
